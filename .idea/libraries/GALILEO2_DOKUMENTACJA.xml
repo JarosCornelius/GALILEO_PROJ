@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="GALILEO2_DOKUMENTACJA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GALILEO2_DOKUMENTACJA/type-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/GALILEO2_DOKUMENTACJA/package-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/GALILEO2_DOKUMENTACJA/member-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

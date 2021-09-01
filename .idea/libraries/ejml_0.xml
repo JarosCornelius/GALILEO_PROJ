@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ejml-0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../MAGIII/ejml-0.41-libs/ejml-0.41-libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../MAGIII/ejml-0.41-libs/ejml-0.41-libs" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../MAGIII/ejml-0.41-libs/ejml-0.41-libs" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../MAGIII/ejml-0.41-libs/ejml-0.41-libs" recursive="false" type="SOURCES" />
+  </library>
+</component>
